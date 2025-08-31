@@ -8,5 +8,5 @@ struct Node{
     vector<Node*> neighbors;
 };
 
-vector<strings> rooms = {"kitchen", "ballroom", "conservatory", "dining room", "hall", "billiard room", "lounge", "library", "study"};
+vector<string> rooms = {"kitchen", "ballroom", "conservatory", "dining room", "hall", "billiard room", "lounge", "library", "study"};
 
