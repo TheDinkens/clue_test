@@ -1,0 +1,3 @@
+/home/brownni/clue_test/build/CMakeFiles/myprog.dir
+/home/brownni/clue_test/build/CMakeFiles/edit_cache.dir
+/home/brownni/clue_test/build/CMakeFiles/rebuild_cache.dir
